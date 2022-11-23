@@ -40,6 +40,7 @@
 * [密钥对管理](/uhost/guide/keypair)
 * [硬件隔离组](/uhost/guide/isolationgroup)
 
+```
 <!-- panels:start -->
 <!-- div:left-panel -->
 * [实例管理](/uhost/guide/common)
@@ -51,6 +52,9 @@
 * [密钥对管理](/uhost/guide/keypair)
 * [硬件隔离组](/uhost/guide/isolationgroup)
 <!-- panels:end -->
+
+```
+
 
 ## 5.实践
 
