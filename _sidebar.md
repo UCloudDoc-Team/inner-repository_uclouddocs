@@ -3,8 +3,8 @@
 * 云主机 UHost 范例及模版
    * [README](/inner-repository_uclouddocs/uhost_template/README)
    * [FAQ](README.md)
-       * [实例及选购相关](README.md)
-       * [网络相关](README.md)
+      * [实例及选购相关](README.md)
+      * [网络相关](README.md)
 * 其他
    * [README 模版](README.md)
    * [词汇表 模版](_glossary.md)
