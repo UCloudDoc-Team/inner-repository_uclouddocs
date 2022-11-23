@@ -40,22 +40,6 @@
 * [密钥对管理](/uhost/guide/keypair)
 * [硬件隔离组](/uhost/guide/isolationgroup)
 
-```
-<!-- panels:start -->
-<!-- div:left-panel -->
-* [实例管理](/uhost/guide/common)
-* [网络管理](/uhost/guide/network)
-* [镜像管理](/uhost/guide/image)---待补充章节页
-* [磁盘管理](/uhost/guide/disk)
-<!-- div:right-panel -->
-* [元数据与自定义数据设置](/uhost/guide/testdata)---待
-* [密钥对管理](/uhost/guide/keypair)
-* [硬件隔离组](/uhost/guide/isolationgroup)
-<!-- panels:end -->
-
-```
-
-
 ## 5.实践
 
 更多信息助力业务实践
