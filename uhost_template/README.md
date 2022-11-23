@@ -32,29 +32,14 @@
 ## 4.使用指南
 
 深度解析产品特性及功能操作，助你得心应手
+* [实例管理](/uhost/guide/common)
+* [网络管理](/uhost/guide/network)
+* [镜像管理](/uhost/guide/image)---待补充章节页
+* [磁盘管理](/uhost/guide/disk)
+* [元数据与自定义数据设置](/uhost/guide/testdata)---待
+* [密钥对管理](/uhost/guide/keypair)
+* [硬件隔离组](/uhost/guide/isolationgroup)
 
-```html
-<html>
-    <table style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
-                <!--左侧内容-->
-                - [实例管理](/uhost/guide/common)
-              	- [网络管理](/uhost/guide/network)
-              	- [镜像管理](/uhost/guide/image)---待补充章节页
-              	- [磁盘管理](/uhost/guide/disk)
-              
-            </td>
-            <td>
-                <!--右侧内容-->
-                - [元数据与自定义数据设置](/uhost/guide/testdata)---待
-              	- [密钥对管理](/uhost/guide/keypair)
-              	- [硬件隔离组](/uhost/guide/isolationgroup)
-            </td>
-        </tr>
-    </table>
-</html>
-```
 ## 5.实践
 
 更多信息助力业务实践
