@@ -2,16 +2,9 @@
 
 * 云主机 UHost 范例及模版
    * [README](/inner-repository_uclouddocs/uhost_template/README)
-   * [FAQ](相对链接)
-       * [实例及选购相关](相对链接)
-       * [网络相关](相对链接)
-       * [操作系统/镜像/快照相关](相对链接)
-       * [磁盘相关](相对链接)
-       * [防火墙/安全组相关](相对链接)
-       * [远程访问相关](相对链接)
-       * [计费相关](相对链接)
-       * [升降级/更新相关](相对链接)
-       * [其他](相对链接)
+   * [FAQ](README.md)
+       * [实例及选购相关](README.md)
+       * [网络相关](README.md)
 * 其他
    * [README 模版](README.md)
    * [词汇表 模版](_glossary.md)
