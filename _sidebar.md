@@ -2,7 +2,7 @@
 
 * 云主机 UHost 范例及模版
    * [README](/inner-repository_uclouddocs/uhost_template/README)
-   * [FAQ](/inner-repository_uclouddocs/uhost_template/README)
+   * [FAQ]
       * [FAQ](/inner-repository_uclouddocs/uhost_template/README)
    
 * 其他
