@@ -1,7 +1,7 @@
 <div class="sidebar_title icon_"> 官方模版 </div>   
 
 * 云主机 UHost 范例及模版
-   * [README](/inner-repository_uclouddocs/uhost_template/README)
+   * [概览](/inner-repository_uclouddocs/uhost_template/README)
    * FAQ
        * [实例及选购相关](/inner-repository_uclouddocs/uhost_template/FAQ/instance_faq)
        * [网络相关](/inner-repository_uclouddocs/uhost_template/FAQ/network_faq)
