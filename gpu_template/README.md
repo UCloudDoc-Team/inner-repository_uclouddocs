@@ -3,65 +3,42 @@
 GPU增强型云主机是基于UCloud成熟的云计算技术，专享高性能GPU硬件的云主机服务。
 
 
-#### <center>[了解 GPU Uhost](#_1了解-gpu-uhost)   |   [费用说明](#_2费用说明)   |   [快速上手](#_3快速上手)   |   [使用指南](#_4使用指南)   |   [实践](#_5实践)   |   [常见问题](#_6常见问题)</center>   
-
+#### <center>[了解 GPU UHost](#_1了解-GPU-UHost)   |   [费用说明](#_2费用说明)   |   [进阶学习](#_3进阶学习)   |   [常见问题](#_4常见问题)</center>   
 
 ## 1.了解 GPU UHost
 
 全方位、多角度、深入浅出的产品介绍，助你从容选择
 
 * [产品简介](/uhost/introduction/concept)
-* [优势介绍](/uhost/introduction/advantages)
-* [功能介绍](/uhost/introduction/functions)
-* [应用场景](相对链接)---待
+* [机型规格](/uhost/introduction/advantages)
+* [优势介绍](/uhost/introduction/functions)
+* [快速上手](相对链接)---待
 * [词汇表](_glossary.md)---待
 
-## 2.费用说明
+##  2.费用说明
 
 从购买到使用，多种付费场景说明
 
 * [计费指南](/uhost/buy/charge)
 * [续费说明](/uhost/buy/renew)
 * [退费说明](相对链接)---待d
-* [主机价格](/uhost/price)
+* [GPU 主机价格](/uhost/price)
 
-##  3.快速上手
+##  3.进阶学习
 
-从这里开始，创建你的第一台云主机 UHost
+玩转高阶场景，应对需求万象
 
-* [如何创建第一台云主机 UHost](/uhost/newuser/briefguide)
+* [深度学习指南](/uhost/newuser/briefguide)
+* [基础镜像安装指南](相对地址)
+* [镜像市场安装指南](相对地址)
+  * [CentOS 环境配置]()
+  * [Ubuntu 14.04 环境配置]()
+  * [Ubuntu 18.04 环境配置]()
+  * [Ubuntu 18.04 环境配置]()
+  * [Windows 环境配置]()
 
-## 4.使用指南
-
-深度解析产品特性及功能操作，助你得心应手
-* [实例管理](/uhost/guide/common)
-* [网络管理](/uhost/guide/network)
-* [镜像管理](/uhost/guide/image)---待补充章节页
-* [磁盘管理](/uhost/guide/disk)
-* [元数据与自定义数据设置](/uhost/guide/testdata)---待
-* [密钥对管理](/uhost/guide/keypair)
-* [硬件隔离组](/uhost/guide/isolationgroup)
-
-## 5.实践
-
-更多信息助力业务实践
-
-* [本地磁盘I/O性能说明](/uhost/testdata/io_uhost)
-* [网络增强性能说明](/uhost/testdata/netenhanced)
-* [Linux 服务配置指南](/uhost/public/linux)---待
-* [Windows 服务配置指南](/uhost/windows_op/windows)---待
-
-## 6.常见问题
+## 4.常见问题
 
 覆盖产品生命全链路的各种常见问题及解答
 
-* [实例及选购相关](相对链接)
-* [网络相关](相对链接)
-* [操作系统/镜像/快照相关](相对链接)
-* [磁盘相关](相对链接)
-* [防火墙/安全组相关](相对链接)
-* [远程访问相关](相对链接)
-* [计费相关](相对链接)
-* [升降级/更新相关](相对链接)
-* [其他]()
-
+* [待讨论](
